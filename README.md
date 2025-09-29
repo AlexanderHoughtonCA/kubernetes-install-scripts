@@ -144,5 +144,15 @@ See Movie Brain microservice deployments for examples of this, e.g.:
 - Edit `pool-config.yaml` to match the IP range available in your bare-metal network.  
 - Reboot master and worker nodes before scheduling workloads.
 
+## About
+
+Kubernetes install scripts for **bare-metal clusters on Ubuntu 22.04**.  
+Designed for non-root users, with static IP networking, **MetalLB** for load balancing, and **ingress-nginx** for external traffic.  
+Provides automated setup for both master and worker nodes, plus install/uninstall scripts for MetalLB.
+
+### Tags
+kubernetes • bare-metal • ubuntu-22.04 • metallb • ingress-nginx • k8s-install • cluster-setup • devops • automation • bash-scripts
+
+
 ## License
 MovieBrain is released under the MIT License. See the [LICENSE](https://github.com/AlexanderHoughtonCA/kubernetes-install-scripts/blob/main/LICENSE) file for details.
