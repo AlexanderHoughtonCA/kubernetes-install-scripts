@@ -141,3 +141,6 @@ See Movie Brain microservice deployments for examples of this, e.g.:
 - Update the scripts with your **node hostnames, IP addresses, and network interface names** before running.  
 - Edit `pool-config.yaml` to match the IP range available in your bare-metal network.  
 - Reboot master and worker nodes before scheduling workloads.
+
+License
+MovieBrain is released under the MIT License. See the LICENSE file for details.
