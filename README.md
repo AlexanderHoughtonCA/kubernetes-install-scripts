@@ -75,8 +75,8 @@ Tested with Kubernetes 1.28.
 e.g.
     ```yaml
     spec:
-     addresses:
-       - 192.168.0.20-192.168.0.40
+      addresses:
+        - 192.168.0.20-192.168.0.40
     ```
 
 
