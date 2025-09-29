@@ -143,4 +143,4 @@ See Movie Brain microservice deployments for examples of this, e.g.:
 - Reboot master and worker nodes before scheduling workloads.
 
 ## License
-MovieBrain is released under the MIT License. See the LICENSE file for details.
+MovieBrain is released under the MIT License. See the [LICENSE](https://github.com/AlexanderHoughtonCA/kubernetes-install-scripts/blob/main/LICENSE) file for details.
