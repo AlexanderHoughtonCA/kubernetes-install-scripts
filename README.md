@@ -4,6 +4,8 @@ This repository contains scripts and manifests to install a **bare-metal Kuberne
 It is designed for static IP clusters where **MetalLB provides load balancing** and **ingress-nginx handles external traffic**.  
 All scripts are built to run as a non-root user.
 
+Tested with Kubernetes 1.28.
+
 **This process requires a minimum of two computers/servers/virtual machines, with one master and one or more workers, each with a static IP address**
 
 **Update values for NODE_HOSTNAME, NODE_IP_ADDRESS, DNS_SERVER_1, etc., prior to running the scripts!**
