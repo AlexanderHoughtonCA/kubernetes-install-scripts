@@ -142,5 +142,5 @@ See Movie Brain microservice deployments for examples of this, e.g.:
 - Edit `pool-config.yaml` to match the IP range available in your bare-metal network.  
 - Reboot master and worker nodes before scheduling workloads.
 
-License
+## License
 MovieBrain is released under the MIT License. See the LICENSE file for details.
